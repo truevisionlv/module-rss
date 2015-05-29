@@ -1,7 +1,7 @@
 <?php
-namespace neTpyceB\TMCms\Modules\RSS;
+namespace Modules\RSS;
 
-use neTpyceB\TMCms\Modules\IModule;
+use Modules\IModule;
 
 defined('INC') or exit;
 
